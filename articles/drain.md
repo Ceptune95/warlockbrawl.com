@@ -1,4 +1,4 @@
-**Drain** is a multipurpose projectile ability belonging to the <kbd>T</kbd> column of spells. It has two modes: *Slow* and *Weaken*.
+**Drain** is a multipurpose projectile ability belonging to the <kbd>T</kbd> column of spells. It has two curses: *Slow* and *Weaken*.
 
 ## Slow
 
